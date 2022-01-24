@@ -1,1 +1,13 @@
 
+{
+ "Usuario 1": {
+  "Nombre": "Brian Lazo",
+  "Cuenta": "brian.lazo",
+  "Correo": "brian.lazo@uartes.edu.ec"
+ },
+ "Usuario 2": {
+  "Nombre": "Pepito Piguave",
+  "Cuenta": "pepito.piguave",
+  "Correo": "pepito.piguave@uartes.edu.ec"
+ }
+}
